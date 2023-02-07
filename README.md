@@ -24,11 +24,11 @@ A few of my projects you can check out are:
 </ul>
 
 
-👷‍♂️ I’m currently working on a weather app.
+👷‍♂️ I’m currently working on a updated portfolio.
 
 🌱 I’m cementing my knowledge in React and Java.
 
-🔭 I’m looking to learn Google cloud.
+🔭 I’m looking to learn Python.
 
 📫 You can reach me on <a href="https://www.linkedin.com/in/connel-nwaodor-b45145125/">LinkedIn<a/>
   
