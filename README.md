@@ -3,7 +3,7 @@ Hi 👋 👨‍💻
 <p>I’m Connel, a London based software developer who is driven to learn and develop new skills, languages and frameworks. I am passionate about creating stylish and sleek web apps and other projects to showcase the skills I have picked up and push my knowledge and understanding of coading. &#x1F4BB;
 </p> 
 
-Some of the languages and frameworks i am proficient in and know are:
+Some of the languages and frameworks I am proficient in and know are:
 <ul>
   <li>HTML</li>
   <li>CSS/SCSS</li>
@@ -24,7 +24,7 @@ A few of my projects you can check out are:
 </ul>
 
 
-👷‍♂️ I’m currently working on a updated portfolio.
+👷‍♂️ I’m currently working on an updated portfolio.
 
 🌱 I’m cementing my knowledge in React and Java.
 
@@ -32,7 +32,7 @@ A few of my projects you can check out are:
 
 📫 You can reach me on <a href="https://www.linkedin.com/in/connel-nwaodor-b45145125/">LinkedIn<a/>
   
-😁 When not coading enjoy sport, gaming, anime and music.  
+😁 When not coding I enjoy sports, gaming, anime and music.  
 
 <!---
 Connz17/Connz17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
