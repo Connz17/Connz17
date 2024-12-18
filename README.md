@@ -1,6 +1,6 @@
 Hi 👋 👨‍💻
 -
-<p>I’m Connel, a London based software developer who is driven to learn and develop new skills, languages and frameworks. I am passionate about creating stylish and sleek web apps and other projects to showcase the skills I have picked up and push my knowledge and understanding of coading. &#x1F4BB;
+<p>I’m Connel, a London-based software developer who is driven to learn and develop new skills, languages and frameworks. I am passionate about creating stylish and sleek web apps and other projects to showcase the skills I have picked up and push my knowledge and understanding of coding. &#x1F4BB;
 </p> 
 
 Some of the languages and frameworks I am proficient in and know are:
