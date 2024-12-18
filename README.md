@@ -10,10 +10,10 @@ Some of the languages and frameworks I am proficient in and know are:
   <li>JavaScript</li>
   <li>React</li>
   <li>Java</li>
-  <li>Spring</li>
-</ul>
+  <li>C#</li>
+</ul>        
 
-A few of my projects you can check out are: 
+Check out my portfolio <a href="https://connz17.github.io/react-portfolio/">HERE<a/>. Alternatively, A few of my projects you can check out are: 
 <ul>
   <li><a href="https://connz17.github.io/js-game-project/">Maze game</a> - a JavaScript game project 🎮</li>
   <li><a href="https://github.com/Connz17/darksouls-full-stack-project-frontend">Dark Souls companion app</a> - the front end to my full-stack project ⚔</li>
